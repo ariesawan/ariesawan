@@ -10,3 +10,4 @@
 <br />
 
 [![Telegram Badge](https://img.shields.io/badge/-@ClouID97-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/ClouID97)](https://t.me/ClouID97)
+[![Gmail Badge](https://img.shields.io/badge/-thislaptop55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thislaptop55@gmail.com)](mailto:thislaptop55@gmail.com)
