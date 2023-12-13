@@ -3,6 +3,6 @@
 <br />
 
 
-<p align="center">
-  <a href="https://citrahost.com"><h1>Powered By</h1><img src="https://github.com/ariesawan/pic-citra/blob/main/logo%20citrahos%201t.png" alt=""></img></a>
+<p align="center"><h1>Powered By</h1>
+  <a href="https://citrahost.com"><img src="https://github.com/ariesawan/pic-citra/blob/main/logo%20citrahos%201t.png" alt=""></img></a>
 </p>
