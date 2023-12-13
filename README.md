@@ -2,4 +2,6 @@
 
 <br />
 
-<img align="center" src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px">
+<p align="center">
+  <a><img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px"></a>
+</p>
