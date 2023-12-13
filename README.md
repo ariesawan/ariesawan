@@ -3,5 +3,5 @@
 <br />
 
 <p align="center">
-  <a><img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px"></a>
+  <a><img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px" autoplay></a>
 </p>
