@@ -9,7 +9,4 @@
 <br />
 <br />
 
-<a href="https://t.me/ClouID97">
-  <img src="https://github.com/ariesawan/pic-citra/blob/main/tele.png" height="40" />
-</a>
-[![Telegram Badge](https://github.com/ariesawan/pic-citra/blob/main/tele.png&link=https:https://t.me/ClouID97)](https://t.me/ClouID97)
+[![Telegram Badge](https://img.shields.io/badge/-@ClouID97-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/ClouID97)](https://t.me/ClouID97)
