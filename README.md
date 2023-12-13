@@ -1,4 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.selfblog.my.id/" target="_blank">Arkawan</a></h1>
+<p align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAACVBMVEX/AAD/////c3NJD7FkAAAAtElEQVR4nO3QARHAMAADoX79i+4uNgYSOAcAAAAAAAAAAAAAAAAAAAAAAAAAAAB+73JPJCEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJIyEJI+HzAOC0WWGNhSviAAAAAElFTkSuQmCC" alt="Arkawan Avatar"></p>
+
 
 <br />
 
