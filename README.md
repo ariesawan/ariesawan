@@ -12,3 +12,4 @@
 <a href="https://t.me/ClouID97">
   <img src="https://github.com/ariesawan/pic-citra/blob/main/tele.png" height="40" />
 </a>
+[![Telegram Badge](https://github.com/ariesawan/pic-citra/blob/main/tele.png&link=https:https://t.me/ClouID97)](https://t.me/ClouID97)
