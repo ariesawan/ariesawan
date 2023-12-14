@@ -15,7 +15,7 @@
 [![TikTok Badge](https://img.shields.io/badge/-@arkawan97-000000?style=flat-square&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)](https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)
 
 <br />
-<span style="font-family: 'Roboto', sans-serif;">Miku is my favourite :ghost:</span>
+<span style="font-family: 'Roboto', sans-serif;"><p>Miku is my favourite :ghost:</p></span>
 
 📖 I'm currently learning:
 <span style="font-family: 'Roboto', sans-serif;">
