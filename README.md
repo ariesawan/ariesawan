@@ -5,6 +5,8 @@
 
 <p align="center">
   <a><img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px" autoplay></a>
+  
+<span style="font-family: 'Roboto', sans-serif;"><p align="left">Miku is my favourite :ghost:</p></span>
 </p>
 
 <br />
@@ -15,7 +17,6 @@
 [![TikTok Badge](https://img.shields.io/badge/-@arkawan97-000000?style=flat-square&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)](https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)
 
 <br />
-<span style="font-family: 'Roboto', sans-serif;"><p align="left">Miku is my favourite :ghost:</p></span>
 
 📖 I'm currently learning:
 <span style="font-family: 'Roboto', sans-serif;">
