@@ -33,4 +33,11 @@
 
 
 
+<a href="https://www.selfblog.my.id/">My Personal Portofolio</a>
+<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+
+<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+
+
+
 
