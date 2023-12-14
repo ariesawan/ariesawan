@@ -14,3 +14,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-thislaptop55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thislaptop55@gmail.com)](mailto:thislaptop55@gmail.com)
 [![TikTok Badge](https://img.shields.io/badge/-@arkawan97-000000?style=flat-square&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)](https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)
 
+<br />
+Miku is my favourite :ghost:
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js & HTML](https://img.shields.io/badge/Next.js_%26_HTML-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
