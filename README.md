@@ -17,10 +17,12 @@
 <br />
 Miku is my favourite :ghost:
 
-:page_with_curl: I'm currently learning:
+📖 I'm currently learning:
 <br><br>
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js & HTML](https://img.shields.io/badge/Next.js_%26_HTML-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_%26_HTML-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
