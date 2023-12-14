@@ -6,7 +6,7 @@
 <p align="center">
   <a><img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Banner" width="400px" autoplay></a>
   
-<span style="font-family: 'Roboto', sans-serif;"><p align="left">Miku is my favourite :ghost:</p></span>
+<span style="font-family: 'Roboto', sans-serif;">Miku is my favourite :ghost:</span>
 </p>
 
 <br />
@@ -18,7 +18,7 @@
 
 <br />
 
-📖 I'm currently learning:
+<h4>📖 I'm currently learning:</h4>
 <span style="font-family: 'Roboto', sans-serif;">
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
