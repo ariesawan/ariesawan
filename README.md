@@ -15,10 +15,6 @@
 [![TikTok Badge](https://img.shields.io/badge/-@arkawan97-000000?style=flat-square&labelColor=000000&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)](https://www.tiktok.com/@arkawan97?_t=8i969UenP0h&_r=1)
 
 <br />
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-</style>
-
 <span style="font-family: 'Roboto', sans-serif;">Miku is my favourite :ghost:</span>
 
 📖 I'm currently learning:
