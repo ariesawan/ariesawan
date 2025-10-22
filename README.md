@@ -36,8 +36,50 @@
 
 
 
+---
+
+## 🎰 LuckyBet Casino - Online Gambling Website Prototype
+
+A full-featured online gambling website with multiple casino games, built with vanilla HTML, CSS, and JavaScript.
+
+### Features
+
+- **User Authentication**: Complete registration and login system
+- **Balance Management**: Deposit and withdraw funds
+- **Multiple Games**:
+  - 🎰 **Slot Machine**: 7 different symbols with varying payouts (up to 100x)
+  - 🎡 **Roulette**: Multiple betting options (colors, odd/even, ranges, specific numbers)
+  - 🃏 **Blackjack**: Classic card game with dealer AI
+- **User Statistics**: Track wins, losses, and win rate
+- **Responsive Design**: Works on desktop and mobile devices
+- **Local Storage**: Persistent user data
+
+### How to Use
+
+1. Open `index.html` in your browser
+2. Register a new account (18+ required)
+3. Login with your credentials
+4. Start with Rp 10,000,000 starting balance
+5. Choose your game and place bets
+6. Manage your balance through deposit/withdraw
+
+### Technical Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Storage**: LocalStorage API
+- **Design**: Responsive, modern UI with animations
+- **Games**: Custom game logic with random number generation
+
+### Important Disclaimer
+
+⚠️ This is a **prototype for demonstration and educational purposes only**. Always comply with local laws and regulations regarding online gambling.
+
+**Responsible Gambling**: Play responsibly. Don't bet more than you can afford to lose.
+
+---
+
 <a href="https://www.selfblog.my.id/">My Personal Portofolio</a>
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
 
