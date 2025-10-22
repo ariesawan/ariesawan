@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roulette - LuckyBet Casino</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="game-header">
+            <div class="logo">
+                <h1>🎡 Roulette</h1>
+            </div>
+            <div class="user-info">
+                <span class="balance">Saldo: Rp <span id="userBalance">10,000,000</span></span>
+                <a href="../dashboard.html" class="btn btn-small">Kembali</a>
+            </div>
+        </header>
+
+        <main class="game-container">
+            <div class="roulette-game">
+                <div class="wheel-container">
+                    <div class="roulette-wheel" id="rouletteWheel">
+                        <div class="wheel-center">
+                            <div class="ball" id="ball"></div>
+                            <div class="result-number" id="resultNumber">?</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="betting-section">
+                    <h3>Pilih Taruhan Anda</h3>
+
+                    <div class="bet-input">
+                        <label>Jumlah Taruhan (Rp)</label>
+                        <input type="number" id="betAmount" value="100000" min="10000" step="10000">
+                    </div>
+
+                    <div class="bet-options">
+                        <div class="bet-group">
+                            <h4>Warna</h4>
+                            <button class="bet-btn red" data-bet="red" data-payout="2">Merah (2x)</button>
+                            <button class="bet-btn black" data-bet="black" data-payout="2">Hitam (2x)</button>
+                        </div>
+
+                        <div class="bet-group">
+                            <h4>Ganjil/Genap</h4>
+                            <button class="bet-btn" data-bet="even" data-payout="2">Genap (2x)</button>
+                            <button class="bet-btn" data-bet="odd" data-payout="2">Ganjil (2x)</button>
+                        </div>
+
+                        <div class="bet-group">
+                            <h4>Range</h4>
+                            <button class="bet-btn" data-bet="low" data-payout="2">1-18 (2x)</button>
+                            <button class="bet-btn" data-bet="high" data-payout="2">19-36 (2x)</button>
+                        </div>
+
+                        <div class="bet-group">
+                            <h4>Kolom</h4>
+                            <button class="bet-btn" data-bet="dozen1" data-payout="3">1-12 (3x)</button>
+                            <button class="bet-btn" data-bet="dozen2" data-payout="3">13-24 (3x)</button>
+                            <button class="bet-btn" data-bet="dozen3" data-payout="3">25-36 (3x)</button>
+                        </div>
+
+                        <div class="bet-group">
+                            <h4>Angka Spesifik (36x)</h4>
+                            <div class="number-grid">
+                                <button class="bet-btn number-btn" data-bet="0" data-payout="36">0</button>
+                                <button class="bet-btn number-btn" data-bet="1" data-payout="36">1</button>
+                                <button class="bet-btn number-btn" data-bet="2" data-payout="36">2</button>
+                                <button class="bet-btn number-btn" data-bet="3" data-payout="36">3</button>
+                                <button class="bet-btn number-btn" data-bet="4" data-payout="36">4</button>
+                                <button class="bet-btn number-btn" data-bet="5" data-payout="36">5</button>
+                                <button class="bet-btn number-btn" data-bet="6" data-payout="36">6</button>
+                                <button class="bet-btn number-btn" data-bet="7" data-payout="36">7</button>
+                                <button class="bet-btn number-btn" data-bet="8" data-payout="36">8</button>
+                                <button class="bet-btn number-btn" data-bet="9" data-payout="36">9</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="current-bet" id="currentBet"></div>
+
+                    <button class="btn btn-primary btn-large" id="spinBtn" disabled>PUTAR RODA</button>
+                    <button class="btn btn-secondary" id="clearBetBtn">Hapus Taruhan</button>
+                </div>
+
+                <div class="result-message" id="resultMessage"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 LuckyBet Casino. Main dengan bertanggung jawab.</p>
+        </footer>
+    </div>
+
+    <script src="../js/app.js"></script>
+    <script src="../js/roulette.js"></script>
+</body>
+</html>

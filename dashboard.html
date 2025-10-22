@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - LuckyBet Casino</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="dashboard-header">
+            <div class="logo">
+                <h1>🎰 LuckyBet Casino</h1>
+            </div>
+            <div class="user-info">
+                <span class="balance">Saldo: Rp <span id="userBalance">10,000,000</span></span>
+                <span class="username" id="currentUser">Player</span>
+                <button class="btn btn-small" id="logoutBtn">Keluar</button>
+            </div>
+        </header>
+
+        <main class="dashboard">
+            <section class="wallet-section">
+                <div class="wallet-card">
+                    <h3>💰 Dompet Anda</h3>
+                    <p class="big-balance">Rp <span id="mainBalance">10,000,000</span></p>
+                    <div class="wallet-actions">
+                        <button class="btn btn-success" id="depositBtn">Deposit</button>
+                        <button class="btn btn-warning" id="withdrawBtn">Tarik Dana</button>
+                    </div>
+                </div>
+                <div class="stats-card">
+                    <h4>Statistik Anda</h4>
+                    <div class="stat-item">
+                        <span>Total Menang:</span>
+                        <span class="stat-value" id="totalWins">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Total Kalah:</span>
+                        <span class="stat-value" id="totalLosses">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span>Win Rate:</span>
+                        <span class="stat-value" id="winRate">0%</span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="games-section">
+                <h2>🎮 Pilih Permainan</h2>
+                <div class="games-grid">
+                    <div class="game-card" onclick="location.href='games/slots.html'">
+                        <div class="game-icon">🎰</div>
+                        <h3>Slot Machine</h3>
+                        <p>Putar dan menangkan jackpot!</p>
+                        <button class="btn btn-primary">Main Sekarang</button>
+                    </div>
+
+                    <div class="game-card" onclick="location.href='games/roulette.html'">
+                        <div class="game-icon">🎡</div>
+                        <h3>Roulette</h3>
+                        <p>Pertaruhkan pada angka keberuntungan Anda!</p>
+                        <button class="btn btn-primary">Main Sekarang</button>
+                    </div>
+
+                    <div class="game-card" onclick="location.href='games/blackjack.html'">
+                        <div class="game-icon">🃏</div>
+                        <h3>Blackjack</h3>
+                        <p>Kalahkan dealer dan raih 21!</p>
+                        <button class="btn btn-primary">Main Sekarang</button>
+                    </div>
+
+                    <div class="game-card coming-soon">
+                        <div class="game-icon">🎲</div>
+                        <h3>Dice</h3>
+                        <p>Segera Hadir</p>
+                        <button class="btn btn-secondary" disabled>Coming Soon</button>
+                    </div>
+
+                    <div class="game-card coming-soon">
+                        <div class="game-icon">🎯</div>
+                        <h3>Poker</h3>
+                        <p>Segera Hadir</p>
+                        <button class="btn btn-secondary" disabled>Coming Soon</button>
+                    </div>
+
+                    <div class="game-card coming-soon">
+                        <div class="game-icon">🏇</div>
+                        <h3>Horse Racing</h3>
+                        <p>Segera Hadir</p>
+                        <button class="btn btn-secondary" disabled>Coming Soon</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <div class="disclaimer">
+                <p><strong>Responsible Gambling:</strong> Main dengan bertanggung jawab. Jangan bertaruh lebih dari yang mampu Anda rugikan.</p>
+            </div>
+            <p>&copy; 2024 LuckyBet Casino. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <!-- Deposit Modal -->
+    <div id="depositModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Deposit Dana</h2>
+            <form id="depositForm">
+                <div class="form-group">
+                    <label>Jumlah Deposit (Rp)</label>
+                    <input type="number" id="depositAmount" min="50000" step="50000" required>
+                </div>
+                <button type="submit" class="btn btn-success">Konfirmasi Deposit</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Withdraw Modal -->
+    <div id="withdrawModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Tarik Dana</h2>
+            <form id="withdrawForm">
+                <div class="form-group">
+                    <label>Jumlah Penarikan (Rp)</label>
+                    <input type="number" id="withdrawAmount" min="50000" step="50000" required>
+                </div>
+                <button type="submit" class="btn btn-warning">Konfirmasi Penarikan</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
