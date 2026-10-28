@@ -3,7 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39C5BB,50:0d1117,100:39C5BB&text=%20Arkawan%20&fontSize=62&fontColor=39C5BB&fontAlignY=33&desc=39%20%C2%B7%20Tell%20Your%20World%20%F0%9F%8E%A4&descAlignY=55&descSize=18&animation=twinkling" width="100%" alt="Arkawan"/>
   </a>
   <br/>
-  <img src="[https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif](https://github.com/ariesawan/pic-citra/blob/1f941c8fd1388aea9652558b063642b91d1e40ab/miku-nf2u.gif)" alt="Hatsune Miku" width="380"/>
 
   <img src="https://raw.githubusercontent.com/ariesawan/pic-citra/main/miku-nf2u.gif" alt="Hatsune Miku">
 
