@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39C5BB,50:0d1117,100:39C5BB&text=%20Arkawan%20&fontSize=62&fontColor=39C5BB&fontAlignY=33&desc=39%20%C2%B7%20Tell%20Your%20World%20%F0%9F%8E%A4&descAlignY=55&descSize=18&animation=twinkling" width="100%" alt="Arkawan"/>
   </a>
   <br/>
-  <img src="https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif" alt="Hatsune Miku" width="380"/>
+  <img src="[https://github.com/ariesawan/pic-citra/blob/main/miku-nf2u.gif](https://github.com/ariesawan/pic-citra/blob/1f941c8fd1388aea9652558b063642b91d1e40ab/miku-nf2u.gif)" alt="Hatsune Miku" width="380"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=39C5BB&center=true&vCenter=true&width=560&lines=Cyao+there%2C+I%27m+Arkawan;Miku+is+my+favourite+%F0%9F%91%BB;React+%7C+React+Native+%7C+Flutter+%7C+Next.js;Tell+Your+World+%F0%9F%8E%A4" alt="Typing SVG"/>
